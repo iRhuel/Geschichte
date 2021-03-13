@@ -1,24 +1,24 @@
 Audi
-BMW
+BMW:Bavarian motor factory
 Baeckerei
 Berlin
 Biergarten
 Bratwurst
-Brot
+Brot:bread
 Dirndel
 Flughafen
 Gauss
 Gebaeck
 Hauptstrasse
 Hund
-Klimaanlage
+Klimaanlage:air conditioner
 Lederhose
 Mehlhase
 Munich
 Musik
 Porsche
-Raesfeld
+Raesfeld:Raesfeld
 Rammstein
 Ratskeller
-Schloss
+Schloss:castle
 wettbewerbsfaehig
