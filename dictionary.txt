@@ -6,12 +6,12 @@ Biergarten:Beer garden
 Bratwurst
 Brot:bread
 Dirndel
-Flughafen:Airport
+* Flughafen:Airport
 Gauss
 Gebaeck
 Hauptstrasse
 Hund
-Klimaanlage:air conditioner
+* Klimaanlage:air conditioner
 Lederhose
 Mehlhase
 Munich
