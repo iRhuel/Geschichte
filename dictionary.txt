@@ -2,11 +2,11 @@ Audi
 BMW:Bavarian motor factory
 Baeckerei
 Berlin
-Biergarten
+Biergarten:Beer garden
 Bratwurst
 Brot:bread
 Dirndel
-Flughafen
+Flughafen:Airport
 Gauss
 Gebaeck
 Hauptstrasse
@@ -15,7 +15,7 @@ Klimaanlage:air conditioner
 Lederhose
 Mehlhase
 Munich
-Musik
+Musik:Music
 Porsche
 Raesfeld:Raesfeld
 Rammstein
