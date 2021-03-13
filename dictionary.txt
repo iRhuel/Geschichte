@@ -9,8 +9,8 @@ Dirndel
 * Flughafen:Airport
 Gauss
 Gebaeck
-Hauptstrasse
-Hund
+Hauptstrasse:main street
+Hund:dog
 * Klimaanlage:air conditioner
 Lederhose
 Mehlhase
@@ -18,7 +18,7 @@ Munich
 * Musik:Music
 Porsche
 Raesfeld:Raesfeld
-Rammstein
-Ratskeller
+Rammstein:Industrial Metal Band
+Ratskeller:council cellar
 Schloss:castle
-wettbewerbsfaehig
+wettbewerbsfaehig:competitive
