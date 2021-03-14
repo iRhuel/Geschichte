@@ -8,7 +8,7 @@ Brot:bread
 Dirndel: traditional Bavarian dress worn by women
 * Flughafen:Airport
 Gauss:Unit of magnetic flux density, named after Carl Friedrich Gauss
-*Gebaeck:pastries
+* Gebaeck:pastries
 Hauptstrasse:main street
 * Hund:dog
 * Klimaanlage:air conditioner
