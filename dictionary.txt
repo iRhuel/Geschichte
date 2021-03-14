@@ -16,7 +16,7 @@ Lederhose: German knickerbockers
 Mehlhase: professor who has doctorate and teaches at ASU
 Munich: city in Bavaria
 * Musik:Music
-Porsche:German automobile manufacturer
+* Porsche:German automobile manufacturer
 Raesfeld:Raesfeld (city)
 * Rammstein:Industrial Metal Band
 Ratskeller:council cellar
