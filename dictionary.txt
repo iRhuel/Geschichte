@@ -1,7 +1,7 @@
 Audi
 BMW:Bavarian motor factory
 Baeckerei
-Berlin
+* Berlin
 Biergarten:Beer garden
 Bratwurst
 Brot:bread
