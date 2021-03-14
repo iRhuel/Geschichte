@@ -1,5 +1,5 @@
 Audi
-BMW:Bavarian motor factory
+*BMW:Bavarian motor factory
 Baeckerei
 * Berlin
 Biergarten:Beer garden
