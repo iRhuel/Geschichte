@@ -1,6 +1,6 @@
-Audi
+Audi  
 *BMW:Bavarian motor factory
-Baeckerei
+Baeckerei:bakery  
 * Berlin
 Biergarten:Beer garden
 Bratwurst
@@ -8,7 +8,7 @@ Brot:bread
 Dirndel: traditional Bavarian dress worn by women
 * Flughafen:Airport
 Gauss
-Gebaeck
+Gebaeck:pastries
 Hauptstrasse:main street
 Hund:dog
 * Klimaanlage:air conditioner
