@@ -1,7 +1,7 @@
-Audi  
+Audi:German automobile manufacturer  
 * BMW:Bavarian motor factory
 * Baeckerei:bakery  
-* Berlin
+* Berlin:capital city of Germany
 Biergarten:Beer garden
 Bratwurst:Pork sausage
 Brot:bread
@@ -16,7 +16,7 @@ Lederhose: German knickerbockers
 Mehlhase: professor who has doctorate and teaches at ASU
 Munich: city in Bavaria
 * Musik:Music
-Porsche
+Porsche:German automobile manufacturer
 Raesfeld:Raesfeld (city)
 * Rammstein:Industrial Metal Band
 Ratskeller:council cellar
