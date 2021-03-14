@@ -3,11 +3,11 @@ Audi
 * Baeckerei:bakery  
 * Berlin
 Biergarten:Beer garden
-Bratwurst
+Bratwurst:Pork sausage
 Brot:bread
 Dirndel: traditional Bavarian dress worn by women
 * Flughafen:Airport
-Gauss
+Gauss:Unit of magnetic flux density, named after Carl Friedrich Gauss
 *Gebaeck:pastries
 Hauptstrasse:main street
 * Hund:dog
