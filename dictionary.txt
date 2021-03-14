@@ -1,6 +1,6 @@
 Audi  
-*BMW:Bavarian motor factory
-*Baeckerei:bakery  
+* BMW:Bavarian motor factory
+* Baeckerei:bakery  
 * Berlin
 Biergarten:Beer garden
 Bratwurst
@@ -10,7 +10,7 @@ Dirndel: traditional Bavarian dress worn by women
 Gauss
 *Gebaeck:pastries
 Hauptstrasse:main street
-Hund:dog
+* Hund:dog
 * Klimaanlage:air conditioner
 Lederhose: German knickerbockers
 Mehlhase: professor who has doctorate and teaches at ASU
