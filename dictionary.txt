@@ -2,10 +2,10 @@ Audi: German automobile manufacturer
 * BMW: Bavarian motor factory
 * Baeckerei: bakery  
 * Berlin: capital city of Germany
-Biergarten: Beer garden
+* Biergarten: Beer garden
 * Bratwurst: Pork sausage
 Brot: bread
-Dirndel: traditional Bavarian dress worn by women
+* Dirndel: traditional Bavarian dress worn by women
 * Flughafen: Airport
 Gauss: Unit of magnetic flux density, named after Carl Friedrich Gauss
 * Gebaeck: pastries
@@ -17,7 +17,7 @@ Mehlhase: professor who has doctorate and teaches at ASU
 Munich: city in Bavaria
 * Musik: Music
 * Porsche: German automobile manufacturer
-Raesfeld: Raesfeld (city)
+* Raesfeld: Raesfeld (city)
 * Rammstein: Industrial Metal Band
 * Ratskeller: council cellar
 * Schloss: castle
