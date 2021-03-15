@@ -6,6 +6,7 @@ Audi: German automobile manufacturer
 * Bratwurst: Pork sausage
 Brot: bread
 * Dirndel: traditional Bavarian dress worn by women
+* Drache: dragon
 * Flughafen: Airport
 Gauss: Unit of magnetic flux density, named after Carl Friedrich Gauss
 * Gebaeck: pastries
