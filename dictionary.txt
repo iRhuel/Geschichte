@@ -19,6 +19,6 @@ Munich: city in Bavaria
 * Porsche: German automobile manufacturer
 Raesfeld: Raesfeld (city)
 * Rammstein: Industrial Metal Band
-Ratskeller: council cellar
+* Ratskeller: council cellar
 * Schloss: castle
 wettbewerbsfaehig: competitive
